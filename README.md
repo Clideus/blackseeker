@@ -1,4 +1,3 @@
-# BLACK SEEKER
 
 ![Logo](https://user-images.githubusercontent.com/106549196/181929751-5893056b-d63b-44c2-819d-58cbb6e0f458.png)
 
